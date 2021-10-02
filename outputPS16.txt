@@ -1,0 +1,65 @@
+229E / CoviShield / Covaxin / SputnikV / Pfizer
+B1351 / CoviShield / Covaxin / SputnikV / Moderna
+P1 / CoviShield / Covaxin / SputnikLight / CoronaVac
+B117/ J&J / Moderna / SputnikLight / Pfizer
+B1617 / CoronaVac / J&J / Moderna / Pfizer
+L452R / CoronaVac / SputnikLight / SputnikV / Moderna--------Function displayAll--------
+Total no. of strains:6
+Total no. of vaccines:8
+List of strains:
+229E
+B1351
+P1
+B117
+B1617
+L452R
+
+List of vaccines:
+Covaxin
+CoviShield
+Pfizer
+SputnikV
+Moderna
+SputnikLight
+CoronaVac
+J&J
+-----------------------------------------
+--------Function displayStrain --------
+Vaccine name:CoviShield
+List of Strains:
+229E
+B1351
+P1
+-----------------------------------------
+--------Function displayStrain --------
+Vaccine name:Covaxin
+List of Strains:
+229E
+B1351
+P1
+-----------------------------------------
+--------Function displayVaccine --------
+ Strain name: P1
+List of Vaccines:
+Covaxin
+CoviShield
+SputnikLight
+CoronaVac
+-----------------------------------------
+--------Function displayVaccine --------
+ Strain name: B117
+List of Vaccines:
+J&J
+Moderna
+SputnikLight
+Pfizer
+-----------------------------------------
+--------Function commonStrain --------
+Vaccine A: Covaxin
+Vaccine B: CoviShield
+common strain: Yes,229E
+-----------------------------------------
+--------Function findVaccineConnect --------
+Vaccine A: Covaxin
+Vaccine B: Pfizer
+Related: Yes, Covaxin > P1 > CoronaVac > L452R > SputnikV > B1351 > Moderna > B1617 > Pfizer

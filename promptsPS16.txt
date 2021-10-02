@@ -1,0 +1,6 @@
+findStrain:CoviShield
+findStrain:Covaxin
+listVaccine:P1
+listVaccine:B117
+commonStrain:Covaxin : CoviShield
+vaccineConnect:Covaxin : Pfizer  
