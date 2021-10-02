@@ -34,10 +34,7 @@ So taking into consideration the graph formed, we formed the following class for
 
 We are checking a graph's connectivity between two vaccines using the following principles:
 1. Start a DFS traversal at the source vaccine, vacA
-2. Check, after the algorithm halts, whether we have successfully traced the path till
-destination vaccine vacB.
-  class Immunization:
-vaccineList = [[],[]] # distinct vaccines and their associations with strains strains = [[],[]] # strains and their associations to vaccines
+2. Check, after the algorithm halts, whether we have successfully traced the path till destination vaccine vacB.
 3. If they have, the vaccines are connected; otherwise, vaccines are not connected
 
 
